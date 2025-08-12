@@ -1,4 +1,4 @@
-Enter your name: Aayan
+Enter your name: Aayan   
 Welcome, Aayan! Type 'exit' to quit the game.
 Choose rock, paper, or scissors: rock
 Computer chose: scissors
@@ -23,4 +23,5 @@ Score — You: 3 | Computer: 1
 Choose rock, paper, or scissors: exit
 
 Game over! You played 4 rounds.
+
 Final score — You: 3 | Computer: 1
