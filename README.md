@@ -9,7 +9,7 @@ A Python console application where the player competes against the computer in R
 - Logs final results to a `.txt` file  
 
 ### 📁 Files  
-- `rock_paper_scissors.py` — Main Python file  
+- rock_paper_scissors.py ` — Main Python file  
 - `score_log.txt` — Score tracker  
 
 ### 📈 What I Learned  
