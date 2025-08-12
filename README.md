@@ -1,31 +1,29 @@
-✊📄✂ Rock-Paper-Scissors Game
-A Python console game where the player competes against the computer in Rock-Paper-Scissors. Tracks the score, shows the winner after each round, and logs final results to a text file.
+✊📄✂ Rock-Paper-Scissors
+A Python console application where the player competes against the computer in Rock-Paper-Scissors. Tracks the user’s score, shows the winner after each round, and saves the final results (including score and winner) to a text file.
 
 🚀 Features
-Lets the user choose rock, paper, or scissors
+Lets the player choose rock, paper, or scissors
 
 Randomly generates the computer’s choice
 
 Determines the winner of each round
 
-Tracks the score across rounds
+Tracks and displays the score
 
-Saves the final score to a .txt file
+Logs final results to a .txt file
 
 📁 Files
 rock_paper_scissors.py — Main Python file
 
-score_log.txt — Stores game results
+score_log.txt — Score tracker
 
 📈 What I Learned
-Using import random to generate choices
+Python basics: input(), if/elif/else, loops, import random
 
-Taking and validating user input
+How to create and structure a simple game loop
 
-Writing conditions using if, elif, and else
+How to save results to a file in Python
 
-Saving data to a file in Python
+How to share code using GitHub
 
-Structuring a simple game loop
-
-✨ This is my second Python project. More games coming soon!
+✨ This is my second Python project. More coming soon!
