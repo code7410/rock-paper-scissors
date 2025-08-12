@@ -18,4 +18,4 @@ A Python console application where the player competes against the computer in R
 - How to save results to a file in Python  
 - How to share code using GitHub  
 
-## ✨ This is my second Python project. More coming soon!  
+✨ This is my second Python project. More coming soon!  
