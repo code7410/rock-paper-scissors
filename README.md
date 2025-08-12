@@ -1,4 +1,4 @@
-## 🪨📄✂️ Rock-Paper-Scissors
+## 🪨📄✂️ Rock Paper Scissors
 
 A Python console application where the player competes against the computer in Rock-Paper-Scissors.  
 Tracks the user’s score, shows the winner after each round, and saves the final results (including score and winner) to a text file.
@@ -21,6 +21,3 @@ Tracks the user’s score, shows the winner after each round, and saves the fina
 - How to share code using GitHub  
 
 ✨ This is my second Python project. More coming soon!  
-y like this and won’t change.
-
-Do you want me to also rename sample_output.txt to example_output.txt inside GitHub so the link works?
