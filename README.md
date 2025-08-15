@@ -1,5 +1,5 @@
 ## 🪨📄✂️ Rock Paper Scissors
-
+  
 A Python console application where the player competes against the computer in Rock-Paper-Scissors.  
 Tracks the user’s score, shows the winner after each round, and saves the final results (including score and winner) to a text file.
 
